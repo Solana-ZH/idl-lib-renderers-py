@@ -1,0 +1,27 @@
+{
+  "name": "idl-lib-renderers-py",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "get-tsconfig": "^4.10.0",
+    "tsup": "^8.4.0",
+    "tsx": "^4.19.3"
+  },
+  "dependencies": {
+    "@codama/nodes": "^1.3.0",
+    "@codama/nodes-from-anchor": "^1.1.11",
+    "@codama/renderers": "^1.0.19",
+    "@codama/renderers-core": "^1.0.16",
+    "@codama/renderers-py": "link:../../jsrc/codama-py/packages/renderers-py",
+    "@solana/codecs-numbers": "^2.1.1",
+    "codama": "^1.2.11"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.8.1"
+}
