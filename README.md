@@ -2,7 +2,7 @@
 
 **🐍 Solana Python Program Clients Library 🐍**
 
-Solana Python program clients generated from [solana-idl-lib](https://github.com/bitquery/solana-idl-lib), using [codama python renderers](https://github.com/codama-idl/codama). 
+Solana Python program clients generated from [solana-idl-lib](https://github.com/bitquery/solana-idl-lib), using [codama python renderers](https://github.com/codama-idl/codama).
 
 It shows how to generate Python-based SDKs from Anchor IDLs, used for Solana client interaction in Python.
 
@@ -12,6 +12,8 @@ You can explore usage examples in:
 
 - `notebooks/pump.ipynb`
 - `notebooks/jup.ipynb`
+- `notebooks/scope.ipynb`
+- `notebooks/system.ipynb`
 
 It shows:
 
@@ -43,4 +45,3 @@ Contributed by [daog1](https://github.com/daog1) from [Solar](https://www.solar.
 Originated from [PyGenIDL001](https://github.com/daog1/PyGenIDL001)
 
 Feel free to raise issues or submit PRs for future improvements.
-
