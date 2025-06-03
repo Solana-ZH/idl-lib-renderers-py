@@ -38,7 +38,9 @@ GenIdl("./idls/idl-0.1.2.json", "Lifinity")
 
 ## 🤝 Contribution
 
-Contributed by [daog1](https://github.com/daog1) from Solar(https://www.solar.team/).
+Contributed by [daog1](https://github.com/daog1) from [Solar](https://www.solar.team/).
+
+Originates from [PyGenIDL001](https://github.com/daog1/PyGenIDL001)
 
 Feel free to raise issues or submit PRs for future improvements.
 
